@@ -1,6 +1,6 @@
 EDA for Feature Selection in Dynamic Ride-Sharing Pricing Model
 
-In this project, we conducted an Exploratory Data Analysis (EDA) to perform feature selection for building a predictive model aimed at understanding and forecasting the historical cost of ride-sharing services. The dataset included 1,000 records with various attributes influencing ride costs, such as the number of riders and drivers, location category, customer loyalty status, past rides, average ratings, time of booking, vehicle type, expected ride duration, and the historical cost of the ride.
+In this project, I conducted an Exploratory Data Analysis (EDA) to perform feature selection to understand the factors influencing the historical cost of ride-sharing services. The dataset included 1,000 records with various attributes influencing ride costs, such as the number of riders and drivers, location category, customer loyalty status, past rides, average ratings, time of booking, vehicle type, expected ride duration, and the historical cost of the ride. The aim was to identify the most relevant features that significantly impact ride costs, aiding in the development of more accurate predictive models in the future.
 
 Process:
 
